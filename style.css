@@ -13,3 +13,13 @@
   background-size: cover;
   background-position: center;
 }
+.brand-icon img {
+  width: 130px;
+}
+.coppy-right {
+  background-color: #000;
+}
+.blur-filter {
+  backdrop-filter: blur(8px);
+  background-color: #cccccc37;
+}
